@@ -34,23 +34,7 @@ public class ManejaConcesionario {
 		empleado empleado10=new empleado("David","Álvarez","Torres",47,2,0);
 		//Output
 		empleado1.getTodo();empleado2.getTodo();empleado3.getTodo();empleado4.getTodo();empleado5.getTodo();empleado6.getTodo();empleado7.getTodo();empleado8.getTodo();empleado9.getTodo();empleado10.getTodo();
-		/*}else if(opcion==3){
-		//Segundo input empleados
-		int i;
-		String nombres[] = null;
-		String apellidos1[] = null;
-		String apellidos2[];
-		float anios[];
-		float puesto[];
-		float genero[];
-		for(i=1;i<=10;i++) {
-			System.out.println("Inserte nombre de empleado"+i+": ");
-			nombres[i]=reader.next();
-		}
-		for(i=1;i<=10;i++) {
-			System.out.println("Inserte apellido de "+nombres[i]+": ");
-			apellidos1[i]=reader.next();
-		}*/
+
 		}else if(opcion==12){
 		//			COCHES
 		//Introduccion Coches
